@@ -1,0 +1,1 @@
+Z:/usr/local/php5/php.exe z:/home/yii/www/framework/yiic webapp z:/home/yii/www/
